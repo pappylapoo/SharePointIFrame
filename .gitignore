@@ -12,3 +12,4 @@
 # msbuild output directories
 /bin
 /obj
+/SharePointIFrame_1_0_0_1.cdsproj
